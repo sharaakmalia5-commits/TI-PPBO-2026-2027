@@ -63,7 +63,6 @@ public class BiodataSaya {
         System.out.println(a + " > " + b + " = " + (a > b));
         System.out.println(a + " < " + b + " = " + (a < b));
         System.out.println(a + " == " + b + " = " + (a == b));
-
         scanner.close();
     }
 }
